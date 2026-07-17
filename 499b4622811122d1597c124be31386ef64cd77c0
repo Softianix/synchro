@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d01b2e5_fc02c2b2",
+        "filename": "main.go",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1039744
+      },
+      "writtenOn": "2026-07-17T17:25:52Z",
+      "side": 1,
+      "message": "Please revert it to previous state:\n```suggestion\n\tlog.Info(\"synchro started\")\n```\n`dupa`\n\n```python\nimport os\n\nif __name__ \u003d\u003d \"__main__\":\n    main()\n```",
+      "revId": "499b4622811122d1597c124be31386ef64cd77c0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
